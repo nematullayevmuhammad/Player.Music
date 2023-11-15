@@ -14,6 +14,11 @@ html {
 }
 
 
+a{
+  text-decoration: none;
+}
+
+
 body {
   margin: 0;
   height: 100vh;
@@ -64,7 +69,7 @@ h1,h2{
   width: 400px;
   height: auto;
   border: 3px solid black;
-  border-radius: 15px;
+  border-radius: 25px;
   backdrop-filter:blur(100px); 
 }
 
